@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project is a full end-to-end **E-commerce Data Analysis Pipeline** built by **Eman Mohamed**.  
+This project is a full end-to-end **E-commerce Data Analysis Pipeline**   
 It covers the complete data lifecycle from raw data ingestion to dashboard visualization using modern data engineering tools.
 
 The project demonstrates skills in:
